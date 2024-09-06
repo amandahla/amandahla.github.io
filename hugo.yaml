@@ -19,7 +19,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Amanda Hager Lopes de Andrade Katz
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "02/01/2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -28,13 +28,13 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hidemeta: true
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -77,11 +77,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/amandahla/amandahla.github.io/content"
-    Text: "Sugestões" # edit text
-    appendFilePath: true # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -95,14 +90,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categorias
-      name: categorias
-      url: /categorias/
+    - identifier: sobre
+      name: sobre/about
+      url: /sobre/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -114,10 +105,10 @@ markup:
     # lineNos: true
     # style: monokai
 
-defaultContentLanguage: Português
+defaultContentLanguage: Portugues
 defaultContentLanguageInSubdir: true
 languages:
-  Português:
+  Portugues:
     contentDir: content/pt-br
     disabled: false
     languageCode: pt-BR

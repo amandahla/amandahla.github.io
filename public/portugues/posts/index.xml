@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Amanda Katz</title>
+    <link>http://localhost:1313/portugues/posts/</link>
+    <description>Recent content in Posts on Amanda Katz</description>
+    <image>
+      <title>Amanda Katz</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 06 Sep 2024 11:20:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/portugues/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aprender a aprender</title>
+      <link>http://localhost:1313/portugues/posts/aprender-a-aprender/</link>
+      <pubDate>Fri, 06 Sep 2024 11:20:50 -0300</pubDate>
+      <guid>http://localhost:1313/portugues/posts/aprender-a-aprender/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Recomendar conteúdo de estudo para aprender a aprender.&lt;/p&gt;
+&lt;p&gt;Trabalhar na área de tecnologia significa um constante aprendizado. Muitos se
+sentem intimidados por isso principalmente porque a forma de estudar não é
+ensinada em escolas ou faculdades. Isso faz com que aprender um assunto novo
+seja intimidador. Além disso, sem uma metodologia de estudo, perde-se tempo
+insistindo em uma forma de estudar que pode acabar sendo mais frustrante do que
+produtiva.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portugu%C3%AAs/</loc>
-    <lastmod>2024-09-05T17:08:50-03:00</lastmod>
+    <loc>http://localhost:1313/portugues/</loc>
+    <lastmod>2024-09-06T11:20:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -12,14 +12,14 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/portugu%C3%AAs/"
+                href="http://localhost:1313/portugues/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portugu%C3%AAs/posts/meu-primeiro-post/</loc>
-    <lastmod>2024-09-05T17:08:50-03:00</lastmod>
+    <loc>http://localhost:1313/portugues/posts/aprender-a-aprender/</loc>
+    <lastmod>2024-09-06T11:20:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portugu%C3%AAs/posts/</loc>
-    <lastmod>2024-09-05T17:08:50-03:00</lastmod>
+    <loc>http://localhost:1313/portugues/posts/</loc>
+    <lastmod>2024-09-06T11:20:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,10 +28,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/portugu%C3%AAs/posts/"
+                href="http://localhost:1313/portugues/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portugu%C3%AAs/categories/</loc>
+    <loc>http://localhost:1313/portugues/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,10 +40,22 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/portugu%C3%AAs/categories/"
+                href="http://localhost:1313/portugues/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/portugu%C3%AAs/tags/</loc>
+    <loc>http://localhost:1313/portugues/sobre/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/english/sobre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/portugues/sobre/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/portugues/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,7 +64,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="http://localhost:1313/portugu%C3%AAs/tags/"
+                href="http://localhost:1313/portugues/tags/"
                 />
   </url>
 </urlset>
