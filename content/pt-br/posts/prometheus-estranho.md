@@ -38,11 +38,11 @@ porcentagem de uso de CPU.
 Ao investigar o problema, vi que o gráfico da métrica coletada pelo Prometheus
 estava assim:
 
-![Prometheus Counter Errado](prometheus-counter-1.png "Prometheus Counter Errado")
+![Prometheus Counter Errado](/prometheus-counter-1.png "Prometheus Counter Errado")
 
 O esperado seria algo assim:
 
-![Prometheus Counter Certo](prometheus-counter-2.png "Prometheus Counter Certo")
+![Prometheus Counter Certo](/prometheus-counter-2.png "Prometheus Counter Certo")
 
 **Solução:**
 
