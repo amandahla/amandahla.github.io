@@ -1,7 +1,8 @@
 baseURL: "https://amandakatz.xyz/"
 title: Amanda Katz
-paginate: 5
 theme: PaperMod
+pagination:
+  pagerSize: 100
 
 enableRobotsTXT: true
 buildDrafts: false

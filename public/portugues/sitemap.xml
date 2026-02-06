@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/portugues/</loc>
-    <lastmod>2024-09-06T11:20:50-03:00</lastmod>
+    <lastmod>2024-09-11T11:20:50-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,21 +15,14 @@
                 href="http://localhost:1313/portugues/"
                 />
   </url><url>
+    <loc>http://localhost:1313/portugues/posts/</loc>
+    <lastmod>2024-09-11T11:20:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portugues/posts/prometheus-estranho/</loc>
+    <lastmod>2024-09-11T11:20:50-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portugues/posts/aprender-a-aprender/</loc>
     <lastmod>2024-09-06T11:20:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portugues/posts/</loc>
-    <lastmod>2024-09-06T11:20:50-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/english/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/portugues/posts/"
-                />
   </url><url>
     <loc>http://localhost:1313/portugues/categories/</loc>
     <xhtml:link

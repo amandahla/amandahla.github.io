@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amanda Katz</title>
     <link>http://localhost:1313/portugues/</link>
     <description>Recent content on Amanda Katz</description>
-    <image>
-      <title>Amanda Katz</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Sep 2024 11:20:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 11:20:50 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/portugues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prometheus estranho: detalhes sobre process_cpu_seconds_total</title>
+      <link>http://localhost:1313/portugues/posts/prometheus-estranho/</link>
+      <pubDate>Wed, 11 Sep 2024 11:20:50 -0300</pubDate>
+      <guid>http://localhost:1313/portugues/posts/prometheus-estranho/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Detectar causa de comportamento estranho em métrica no Prometheus.&lt;/p&gt;&#xA;&lt;p&gt;Surgiu no trabalho uma situação curiosa com a monitoração de uma aplicação.&lt;/p&gt;&#xA;&lt;p&gt;No painel de uso de CPU disponível no dashboard Grafana, aparecia um gráfico&#xA;subindo sem parar com números absurdos.&lt;/p&gt;&#xA;&lt;p&gt;A métrica utilizada é &lt;code&gt;process_cpu_seconds_total&lt;/code&gt; coletada e disponibilizada&#xA;pelo client Python do Prometheus.&lt;/p&gt;&#xA;&lt;p&gt;Esse client coleta a informação do arquivo &lt;code&gt;/proc/[pid]/statstat&lt;/code&gt; onde pid é o&#xA;id do processo monitorado.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Aprender a aprender</title>
       <link>http://localhost:1313/portugues/posts/aprender-a-aprender/</link>
       <pubDate>Fri, 06 Sep 2024 11:20:50 -0300</pubDate>
       <guid>http://localhost:1313/portugues/posts/aprender-a-aprender/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Recomendar conteúdo de estudo para aprender a aprender.&lt;/p&gt;
-&lt;p&gt;Trabalhar na área de tecnologia significa um constante aprendizado. Muitos se
-sentem intimidados por isso principalmente porque a forma de estudar não é
-ensinada em escolas ou faculdades. Isso faz com que aprender um assunto novo
-seja intimidador. Além disso, sem uma metodologia de estudo, perde-se tempo
-insistindo em uma forma de estudar que pode acabar sendo mais frustrante do que
-produtiva.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt; Recomendar conteúdo de estudo para aprender a aprender.&lt;/p&gt;&#xA;&lt;p&gt;Trabalhar na área de tecnologia significa um constante aprendizado. Muitos se&#xA;sentem intimidados por isso principalmente porque a forma de estudar não é&#xA;ensinada em escolas ou faculdades. Isso faz com que aprender um assunto novo&#xA;seja intimidador. Além disso, sem uma metodologia de estudo, perde-se tempo&#xA;insistindo em uma forma de estudar que pode acabar sendo mais frustrante do que&#xA;produtiva.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sobre</title>

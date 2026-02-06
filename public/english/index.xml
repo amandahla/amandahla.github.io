@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amanda Katz</title>
     <link>http://localhost:1313/english/</link>
     <description>Recent content on Amanda Katz</description>
-    <image>
-      <title>Amanda Katz</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.134.1</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Sep 2024 17:08:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 10:00:00 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strange Prometheus: details about process_cpu_seconds_total</title>
+      <link>http://localhost:1313/english/posts/weird-prometheus/</link>
+      <pubDate>Fri, 06 Feb 2026 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/english/posts/weird-prometheus/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Detect the cause of strange behavior in a metric in Prometheus.&lt;/p&gt;&#xA;&lt;p&gt;A curious situation came up at work with the monitoring of an application.&lt;/p&gt;&#xA;&lt;p&gt;On the CPU usage panel available in the Grafana dashboard, there was a graph&#xA;going up nonstop with absurd numbers.&lt;/p&gt;&#xA;&lt;p&gt;The metric used is &lt;code&gt;process_cpu_seconds_total&lt;/code&gt;, collected and exposed&#xA;by the Prometheus Python client.&lt;/p&gt;&#xA;&lt;p&gt;This client collects the information from the file &lt;code&gt;/proc/[pid]/stat&lt;/code&gt; where pid is the&#xA;id of the monitored process.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learn to learn</title>
       <link>http://localhost:1313/english/posts/learn-to-learn/</link>
       <pubDate>Thu, 05 Sep 2024 17:08:50 -0300</pubDate>
       <guid>http://localhost:1313/english/posts/learn-to-learn/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Recommend study content to help you learn how to learn.&lt;/p&gt;
-&lt;p&gt;Working in the tech field means constant learning. Many people feel intimidated
-by this, especially because the way to study is not taught in schools or
-universities. This makes learning a new subject daunting. Moreover, without a
-proper study methodology, people waste time persisting with study methods that
-can end up being more frustrating than productive.&lt;/p&gt;
-&lt;h2 id=&#34;1-coursera&#34;&gt;1. Coursera&lt;/h2&gt;
-&lt;p&gt;A course that really helped me not only recognize this problem but also solve it
-was &amp;ldquo;Learning How to Learn: Powerful Mental Tools to Help You Master Tough
-Subjects&amp;rdquo;, available on &lt;a href=&#34;https://www.coursera.org/learn/aprender&#34;&gt;Coursera&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Recommend study content to help you learn how to learn.&lt;/p&gt;&#xA;&lt;p&gt;Working in the tech field means constant learning. Many people feel intimidated&#xA;by this, especially because the way to study is not taught in schools or&#xA;universities. This makes learning a new subject daunting. Moreover, without a&#xA;proper study methodology, people waste time persisting with study methods that&#xA;can end up being more frustrating than productive.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-coursera&#34;&gt;1. Coursera&lt;/h2&gt;&#xA;&lt;p&gt;A course that really helped me not only recognize this problem but also solve it&#xA;was &amp;ldquo;Learning How to Learn: Powerful Mental Tools to Help You Master Tough&#xA;Subjects&amp;rdquo;, available on &lt;a href=&#34;https://www.coursera.org/learn/aprender&#34;&gt;Coursera&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
