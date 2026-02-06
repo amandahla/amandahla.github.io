@@ -4,8 +4,6 @@ date = 2026-02-06T12:19:18-03:00
 draft = false
 +++
 
-# Limits
-
 Software engineers, for the most part, become emotionally involved with their work. In many ways, they resemble artists more than "traditional" professionals. They treat source code as a work of art, care about every detail, and feel frustration when a company decides to abandon a project in which they invested time and energy.
 
 This may seem beautiful and, in some ways, it really is. The problem is that this emotional involvement makes software engineers particularly vulnerable to burnout.

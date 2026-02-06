@@ -4,8 +4,6 @@ date = 2026-02-06T12:19:18-03:00
 draft = false
 +++
 
-# Limites
-
 Engenheiros de software, em sua maioria, se envolvem emocionalmente com o próprio trabalho. Em muitos aspectos, se parecem mais com artistas do que com profissionais "tradicionais". Tratam o código-fonte como uma obra de arte, cuidam de cada detalhe e sentem frustração quando a empresa decide abandonar um projeto no qual investiram tempo e energia.
 
 Isso pode parecer bonito e, de certa forma, é mesmo. O problema é que esse envolvimento emocional torna engenheiros de software particularmente vulneráveis a burnout.
