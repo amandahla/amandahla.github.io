@@ -57,7 +57,6 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Amanda Hager Lopes de Andrade Katz"
-    Content: DevOps, Python, Golang, Infra etc
 
   socialIcons:
     - name: linkedin
